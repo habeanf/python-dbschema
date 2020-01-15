@@ -1,0 +1,19 @@
+# Database for which the test suite should be run.
+#
+# This file is in ini-style format and serves as an example
+# configuration.
+#
+# Copy this file to databases.conf in this directory and customize it
+# to your needs.
+
+
+# All section names must match a backend name as used by the
+# module. The options and values are used as keyword arguments to
+# establish the connection to the database.
+
+#[postgresql]
+#user = john
+#password = foo
+#dbname = dbschema_test
+#host = localhost
+#port = 5432

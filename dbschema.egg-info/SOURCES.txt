@@ -1,0 +1,14 @@
+README.rst
+setup.py
+dbschema/__init__.py
+dbschema/exceptions.py
+dbschema.egg-info/PKG-INFO
+dbschema.egg-info/SOURCES.txt
+dbschema.egg-info/dependency_links.txt
+dbschema.egg-info/top_level.txt
+dbschema/backends/__init__.py
+dbschema/backends/base.py
+dbschema/backends/mysql.py
+dbschema/backends/postgresql.py
+dbschema/backends/sqlite3.py
+dbschema/objects/__init__.py
